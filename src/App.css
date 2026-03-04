@@ -2,8 +2,15 @@
 
 @theme {
   --color-btnclr: #D6A033;
-   --font-paprika: "Paprika", system-ui;
-    --font-openSans: "Open Sans", sans-serif;
-     --font-playFair: "Playfair Display", serif;
+  --font-paprika: "Paprika", system-ui;
+  --font-openSans: "Open Sans", sans-serif;
+  --font-playFair: "Playfair Display", serif;
+  --font-bnrclr: #F7D38A;
+  --color-primary: #D6A033;
+  --color-secondary: #F7D38A;
+  --color-text: #333333;
+  --color-bg: #FFFFFF;
+
+
 
 }
