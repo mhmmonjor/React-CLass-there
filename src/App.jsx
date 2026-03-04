@@ -5,7 +5,7 @@ import RootLayouts from './components/layouts/RootLayouts';
 import Home from './components/pages/Home';
 import About from './components/pages/About';
 import Contact from './components/pages/Contact';
-import Services from './components/pages/services';
+import Services from './components/pages/Services';
 import Portfolio from './components/pages/Portfolio';
 import Price from './components/layouts/Price';
 
