@@ -1,7 +1,7 @@
 import React from 'react'
 import Container from '../common/Container'
 
-const services = () => {
+const Services = () => {
     return (
         <div className="bg-gray-200">
             <Container>
@@ -62,4 +62,4 @@ const services = () => {
     )
 }
 
-export default services
+export default Services
